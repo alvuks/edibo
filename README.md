@@ -1,1 +1,2 @@
 # edibo
+Elektriniskā klade
