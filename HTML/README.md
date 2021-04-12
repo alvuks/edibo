@@ -1,3 +1,11 @@
-## Makeing new brnch
+#BRACHESSSS
+## Simple COMANDS
 
-git checkout -b < branch name > 
+
+#### Makeing new branch
+
+git checkout -b < branch name >
+
+#### switching branches 
+
+git switch < branch name >
