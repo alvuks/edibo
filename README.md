@@ -1,2 +1,0 @@
-# edibo
-elektroniska klade 
