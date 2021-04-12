@@ -1,7 +1,7 @@
-#Elektroniskā klade
+# Elektroniskā klade
 
 
-##git komandas
+## git komandas
 
 git add . -pievino izmaiņas kuras tiks pievienotas
 
@@ -11,7 +11,7 @@ git status
 
 git clone < url addres >
 
-### saglabat izmainas 
+### Saglabāt izmaiņas 
 git add
 
 git commit -m < adresse>
