@@ -1,7 +1,7 @@
 # Elektroniskā klade
 
 
-## git komandas
+## GIT komandas
 
 git add . -pievino izmaiņas kuras tiks pievienotas
 
@@ -20,4 +20,5 @@ git branch -M main
 
 git push orgin main
  
+{ Ja nesakrit repozitorija tas izmantot: git pull }
 
